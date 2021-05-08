@@ -1,5 +1,7 @@
 # About Project Euler
 
+<img src="https://projecteuler.net/images/clipart/euler_portrait.png" align="right" />
+
 ## What is Project Euler?
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
@@ -17,5 +19,7 @@ Currently we have 1035765 registered members who have solved at least one proble
 The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
 
 Here is a repository for all my solutions and write-ups during this fun journey, playing Project Euler.
+
+`Leonhard Euler (1707-1783)`
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
