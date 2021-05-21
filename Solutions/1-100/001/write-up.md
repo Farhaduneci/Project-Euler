@@ -2,7 +2,7 @@
 
 Project Euler is a series of challenging mathematical/computer programming problems that I like to start. I'm sure there will be a lot to learn for me, and I would like to share my solutions here in DEV.
 
-❓ Here is the problem 001:
+❓ Here is problem 001:
 
 > If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6, and 9. The sum of these multiples is 23.
 > Find the sum of all the multiples of 3 or 5 below 1000.
