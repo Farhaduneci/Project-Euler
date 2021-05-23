@@ -1,3 +1,6 @@
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+![GitHub last commit](https://img.shields.io/github/last-commit/farhaduneci/project-euler)
+
 # About Project Euler
 
 <img src="https://projecteuler.net/images/clipart/euler_portrait.png" align="right" />
